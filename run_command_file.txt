@@ -1,0 +1,3 @@
+conda env list
+
+python detect_or_track.py --weights best_final.pt --view-img --source 0 --track
